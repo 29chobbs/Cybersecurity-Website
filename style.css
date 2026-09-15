@@ -1,0 +1,30 @@
+p {
+    font-size: x-large;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: rgb(10, 85, 10);
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+
+a {
+    color: blue;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    border: 4px, dotted, red;
+}
